@@ -4,11 +4,11 @@
 
 2. Clone repo
 
-3. Add the Project in Unity Hub (just navigate to the folder the repo's in)
+3. Open Unity Hub & add the Project (Projects > Add > Navigate to the folder you cloned the repo in > Open)
 
-4. Open the Project from Unity Hub using the latest version of Unity (selected in dropdown)
+4. From Unity Hub, load the Project using Unity version 2020.1.10f1 (double click on the Project in Unity Hub's Projects screen)
 
-5. Press play
+5. When the game loads, press Play
 
 
 **How to Play**
